@@ -1,6 +1,6 @@
-[![Priiiyo](https://telegra.ph/file/9f79dea91ab7cda63dc46.jpg)](http://t.me/PriiiyoMirror)
+[![Priiiyo](https://github.com/SaumyaAvasthi/AvasthiCloud/raw/main/2.gif)](http://t.me/DragonMirror)
 
-# Priiiyo Mirror Bot
+# Dragon Mirror Bot
 A Telegram bot which can mirror all your links to Google drive! This is the Modified version.
 
 # Features supported:
@@ -74,8 +74,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/priiiyo/priiiyo-mirror-bot
-cd priiiyo-mirror-bot
+git clone https://github.com/Ishan-EXE/DragonMirrorBot1
+cd DragonMirrorBot1
 ```
 
 - Install requirements
@@ -314,7 +314,7 @@ where host is the name of extractor (eg. youtube, twitch). Multiple accounts of 
 # Credits
 
 Thanks to:
-- [priiiyo(me)](https://github.com/priiiyo) For custom Mod 😛
+- [priiiyo](https://github.com/priiiyo) For custom Mod 😛
 - [out386](https://github.com/out386) heavily inspired from telegram bot which is written in JS
 - [Izzy12](https://github.com/lzzy12) for original repo
 - [magneto261290](https://github.com/magneto261290) for some features

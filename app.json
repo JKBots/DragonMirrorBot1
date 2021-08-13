@@ -1,16 +1,16 @@
   
 {
-    "name": "slam-mirrorbot",
+    "name": "Dragon-Mirror",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://telegra.ph/file/6507910fd06d18dfaba82.jpg",
+    "logo": "https://raw.githubusercontent.com/SaumyaAvasthi/AvasthiCloud/main/2.gif",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/breakdowns/slam-mirrorbot",
-    "website": "https://github.com/breakdowns/slam-mirrorbot",
-    "success_url": "https://t.me/SlamMirrorSupport",
+    "repository": "https://github.com/JKBots/DragonMirrorBot1",
+    "website": "https://github.com/JKBots/DragonMirrorBot1",
+    "success_url": "https://t.me/LordHimanshu69",
     "stack": "container",
     "env": {
       "ENV": {
@@ -77,7 +77,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/breakdowns/slam-mirrorbot.",
-        "value": "https://github.com/breakdowns/slam-mirrorbot",
+        "value": "https://github.com/JKBots/DragonMirrorBot1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
